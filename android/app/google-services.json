@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828518208017",
+    "project_id": "fir-check-a4729",
+    "storage_bucket": "fir-check-a4729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828518208017:android:58068760287ef829efd7b0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rL_W6p1r2kiy1h7MLkLdV62mKWrRT4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
