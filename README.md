@@ -1,6 +1,6 @@
-# firebase_check
+# Food-e (E-commerce app)
 
-A new Flutter project.
+A Flutter project that has functionalities to select/order food and stripe payment gateway. It has a separate admin panel from where an admin can add disshes into the application.
 
 ## Getting Started
 
