@@ -9,6 +9,14 @@ Food-e is a Flutter-based e-commerce application that allows users to browse, se
 - **Stripe Payment Integration:** Secure payment processing using Stripe.
 - **Admin Panel:** Admins can add, update, or remove dishes.
 
+## Tech Stack
+- **Flutter:** The app is built using Flutter, Google's UI toolkit, allowing for natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart:** The primary programming language used in Flutter, known for its performance and expressiveness.
+- **Firebase:** Used for backend services such as authentication, real-time database, and cloud storage.
+- **Stripe API:** Integrated for secure and seamless payment processing.
+- **Provider:** A state management solution used to manage the state across the application.
+- **Node.js:** Utilized in the backend for handling server-side logic.
+
 ## Installation
 
 ### Prerequisites
